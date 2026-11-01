@@ -21,4 +21,4 @@ https://jmjtjzy.github.io/bunny-dino-game/
 ## 文件
 
 - 游戏：仓库根目录的 `index.html`（单文件，无构建步骤）
-- GitHub Pages 从 `main` 分支的根目录发布
+- 发布：GitHub Pages，来源为 `main` 分支的 `/`（根目录）
